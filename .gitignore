@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -21,3 +22,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+# Dependencies
+.psci_modules
+bower_components
+node_modules
+
+# Generated files
+.psci
+output
+>>>>>>> 94add784a5bc359eb384065e5808be55a20b7578
